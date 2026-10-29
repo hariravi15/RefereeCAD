@@ -8,7 +8,5 @@ The source code and supporting materials are currently maintained in a private r
 - [ ] Supporting materials and supplementary files
 - [ ] Documentation and usage instructions
 - [ ] Instructions for reproducing the reported results
-*The repository contents will be made available following paper acceptance.*
----
 
 **Note:** This repository is currently under preparation. Please check back for updates following the paper acceptance and publication process.
